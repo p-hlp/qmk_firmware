@@ -1,0 +1,8 @@
+#pragma once
+
+#define COMBO_TERM 45
+#define COMBO_COUNT 3
+
+// Optional but recommended for RP2040
+#define RP2040_BOOTLOADER_DOUBLE_TAP_RESET
+#define RP2040_BOOTLOADER_DOUBLE_TAP_RESET_TIMEOUT 300U
